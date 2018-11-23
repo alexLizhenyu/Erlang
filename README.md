@@ -1,2 +1,2 @@
 # Erlang
-Erlang knowledge
+Erlang knowledge sharing
